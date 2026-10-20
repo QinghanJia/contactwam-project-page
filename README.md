@@ -1,8 +1,9 @@
 # ContactWAM
 
-## 🌐 Project Page: **[https://contactwam.github.io]**
+## 🌐 Project Page: [contactwam.github.io](https://contactwam.github.io/)
 
-> **Reviewers:** Please visit the project page above for videos, interactive results, and additional materials.
+> **Reviewers:** Please visit the project page above for
+> videos, interactive results, and additional materials.
 
 ---
 
